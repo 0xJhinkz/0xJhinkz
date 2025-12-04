@@ -90,7 +90,6 @@ I'm a passionate developer dedicated to building innovative solutions and contin
 ## 📊 GitHub Stats
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=0xJhinkz1&theme=dark)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
